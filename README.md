@@ -1,1 +1,1 @@
-# Javascript_games
+# Some basic javascript games
